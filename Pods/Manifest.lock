@@ -1,0 +1,32 @@
+PODS:
+  - Alamofire (5.6.1)
+  - CollectionViewWaterfallLayout (0.5.0)
+  - Kingfisher (7.2.2)
+  - SnapKit (5.6.0)
+  - SwiftyJSON (4.3.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - CollectionViewWaterfallLayout
+  - Kingfisher (~> 7.0)
+  - SnapKit
+  - SwiftyJSON (~> 4.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - CollectionViewWaterfallLayout
+    - Kingfisher
+    - SnapKit
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 87bd8c952f9a4454320fce00d9cc3de57bcadaf5
+  CollectionViewWaterfallLayout: 4399ba01be265fff4da1ed1d607130fe009780e4
+  Kingfisher: 184d4d1a8c36666e663caf8e08abe87898595c53
+  SnapKit: e01d52ebb8ddbc333eefe2132acf85c8227d9c25
+  SwiftyJSON: 6faa0040f8b59dead0ee07436cbf76b73c08fd08
+
+PODFILE CHECKSUM: 444b5617fcd5a157ab6412123e76c87ab7b46872
+
+COCOAPODS: 1.11.3
